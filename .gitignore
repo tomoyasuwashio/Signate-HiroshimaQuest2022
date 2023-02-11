@@ -1,0 +1,6 @@
+.devcontainer/
+.vscode/
+train/
+**/__pycache__/
+**/model/
+*.zip
